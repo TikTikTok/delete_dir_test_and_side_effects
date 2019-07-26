@@ -3,7 +3,62 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$USER_HOME$/Downloads/send_email/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/send_email/src/main/java/com/send/email/MailSender.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../head_detached_state_state/git_head_detached_state/head_detached_state.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../testprograms/test_learnings/.idea/workspace.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../testprograms/test_learnings/src/main/java/collections/LinkedHashMap_Iteration/HashMapIteratorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../testprograms/test_learnings/src/main/java/companies/itc_infotech/FormAsubsequenceFromAnArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../testprograms/test_learnings/src/main/java/data_stuctures/linked_list/singly_linked_list/SinglyLinkedList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../testprograms/test_learnings/src/main/java/data_stuctures/linked_list/singly_linked_list/SinglyLinkedListNode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../testprograms/test_learnings/src/main/java/data_stuctures/linked_list/singly_linked_list/SinglyLinkedListTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../testprograms/test_learnings/src/main/java/data_stuctures/linked_list/singly_linked_list/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../testprograms/test_learnings/src/main/java/generics/MyClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../testprograms/test_learnings/src/main/java/hacker_rank/Solution_1.java">
           <value>
             <set />
           </value>
